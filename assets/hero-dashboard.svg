@@ -1,0 +1,39 @@
+<svg width="440" height="240" viewBox="0 0 440 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="440" height="240" rx="24" fill="#f5f8fa"/>
+  <!-- Sidebar -->
+  <rect x="24" y="32" width="48" height="176" rx="10" fill="#eaf0f6"/>
+  <rect x="36" y="48" width="24" height="24" rx="6" fill="#ff7a59"/>
+  <rect x="36" y="88" width="24" height="24" rx="6" fill="#00a4bd"/>
+  <rect x="36" y="128" width="24" height="24" rx="6" fill="#00bda5"/>
+  <rect x="36" y="168" width="24" height="24" rx="6" fill="#cbd6e2"/>
+
+  <!-- Main Panels -->
+  <rect x="88" y="32" width="328" height="56" rx="12" fill="#fff" stroke="#eaf0f6" stroke-width="2"/>
+  <rect x="88" y="104" width="104" height="88" rx="12" fill="#fff" stroke="#eaf0f6" stroke-width="2"/>
+  <rect x="208" y="104" width="104" height="88" rx="12" fill="#fff" stroke="#eaf0f6" stroke-width="2"/>
+  <rect x="328" y="104" width="88" height="88" rx="12" fill="#fff" stroke="#eaf0f6" stroke-width="2"/>
+
+  <!-- Panel Titles -->
+  <rect x="104" y="44" width="80" height="12" rx="6" fill="#cbd6e2"/>
+  <rect x="104" y="66" width="48" height="8" rx="4" fill="#eaf0f6"/>
+
+  <rect x="112" y="116" width="56" height="10" rx="5" fill="#ff7a59"/>
+  <rect x="112" y="134" width="72" height="8" rx="4" fill="#ffe5dc"/>
+  <rect x="112" y="148" width="56" height="8" rx="4" fill="#eaf0f6"/>
+  <rect x="112" y="162" width="40" height="8" rx="4" fill="#eaf0f6"/>
+
+  <rect x="232" y="116" width="56" height="10" rx="5" fill="#00a4bd"/>
+  <rect x="232" y="134" width="72" height="8" rx="4" fill="#d6f8fc"/>
+  <rect x="232" y="148" width="56" height="8" rx="4" fill="#eaf0f6"/>
+  <rect x="232" y="162" width="40" height="8" rx="4" fill="#eaf0f6"/>
+
+  <rect x="352" y="116" width="56" height="10" rx="5" fill="#00bda5"/>
+  <rect x="352" y="134" width="48" height="8" rx="4" fill="#d6f8fc"/>
+  <rect x="352" y="148" width="32" height="8" rx="4" fill="#eaf0f6"/>
+  <rect x="352" y="162" width="24" height="8" rx="4" fill="#eaf0f6"/>
+
+  <!-- Dots for UI -->
+  <circle cx="420" cy="48" r="4" fill="#cbd6e2"/>
+  <circle cx="420" cy="64" r="4" fill="#cbd6e2"/>
+  <circle cx="420" cy="80" r="4" fill="#cbd6e2"/>
+</svg>
